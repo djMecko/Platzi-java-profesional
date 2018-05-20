@@ -1,0 +1,37 @@
+### ProfesoresPlatzi ###
+ProfesoresPlatzi/target/
+ProfesoresPlatzi/.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+ProfesoresPlatzi/.apt_generated
+ProfesoresPlatzi/.classpath
+ProfesoresPlatzi/.factorypath
+ProfesoresPlatzi/.project
+ProfesoresPlatzi/.settings
+ProfesoresPlatzi/.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+ProfesoresPlatzi/nbproject/private/
+ProfesoresPlatzi/build/
+ProfesoresPlatzi/nbbuild/
+ProfesoresPlatzi/dist/
+ProfesoresPlatzi/nbdist/
+ProfesoresPlatzi/.nb-gradle/
+
+### Hibernate ###
+hibernate/.classpath
+hibernate/.project
+hibernate/target/
+hibernate/.settings
+
+### Java EE ###
+java-platzi/build
+java-platzi/.classpath
+java-platzi/.project
+java-platzi/.settings
